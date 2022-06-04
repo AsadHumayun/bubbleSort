@@ -1,0 +1,23 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "Executes a simple bubble sort algorithm.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsadHumayun/BubbleSort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsadHumayun/bubbleSort/issues"
+  },
+  "homepage": "https://github.com/AsadHumayun/bubbleSort#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
